@@ -10,8 +10,12 @@
 }
 
 body{
+    /* cor de fundo aplicada diretamente */
+    background-color: #573824;
+    /* imagem de fundo opcional - pode misturar com a cor abaixo */
     background-image: url(assets/bg-image.jpg);
     background-size: cover;
+    background-blend-mode: multiply; /* mistura marrom + foto */
 }
 
 #page{
