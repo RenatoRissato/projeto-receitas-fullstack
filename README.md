@@ -1,62 +1,113 @@
-🍽️ Projeto Receitas Fullstack
+# 🍽️ Projeto Receitas Fullstack
 
-Este projeto é uma página web de receitas culinárias desenvolvida com HTML e CSS, com o objetivo de praticar conceitos básicos de desenvolvimento web e estruturação de páginas.
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
 
-A aplicação apresenta uma interface simples e organizada para exibir uma receita, incluindo ingredientes, modo de preparo e elementos visuais que melhoram a experiência do usuário.
+## 📌 Sobre o projeto
 
-🚀 Tecnologias utilizadas
+O **Projeto Receitas Fullstack** é uma aplicação web simples desenvolvida para praticar conceitos fundamentais de desenvolvimento front-end.
 
-HTML5
+A página apresenta uma receita culinária organizada de forma clara e visualmente agradável, contendo:
 
-CSS3
+* título da receita
+* lista de ingredientes
+* modo de preparo
+* imagens ilustrativas
 
-Google Fonts
+Este projeto foi criado com o objetivo de **aprimorar habilidades em HTML, CSS e organização de projetos web**, além de utilizar **Git e GitHub para versionamento de código**.
 
-📂 Estrutura do projeto
+---
+
+## 🚀 Tecnologias utilizadas
+
+As seguintes tecnologias foram utilizadas no projeto:
+
+* **HTML5** → estrutura da página
+* **CSS3** → estilização e layout
+* **Google Fonts** → tipografia personalizada
+
+---
+
+## 📂 Estrutura do projeto
+
+```
 projeto-receitas-fullstack
 │
-├── assets/        # Imagens utilizadas no projeto
-├── index.html     # Estrutura da página
-├── style.css      # Estilização da página
-└── README.md      # Documentação do projeto
-📖 Funcionalidades
+├── assets/            # Imagens utilizadas no projeto
+│
+├── index.html         # Estrutura principal da página
+│
+├── style.css          # Estilização da página
+│
+└── README.md          # Documentação do projeto
+```
 
-Exibição de uma receita culinária em formato de página web
+---
 
-Layout organizado com títulos, listas e seções
+## 🎯 Objetivos de aprendizado
 
-Estilização personalizada com CSS
+Este projeto foi desenvolvido para praticar:
 
-Utilização de fontes externas para melhorar o design
+* Estruturação de páginas com **HTML**
+* Estilização com **CSS**
+* Organização de arquivos em projetos web
+* Uso de **Git e GitHub**
+* Publicação e documentação de projetos
 
-🎯 Objetivo do projeto
+---
 
-Este projeto foi desenvolvido com o objetivo de:
+## ▶️ Como executar o projeto
 
-Praticar estruturação de páginas HTML
+### 1️⃣ Clonar o repositório
 
-Aprender estilização com CSS
-
-Trabalhar com organização de arquivos em um projeto web
-
-Utilizar controle de versão com Git e GitHub
-
-▶️ Como executar o projeto
-
-Clone o repositório:
-
+```bash
 git clone https://github.com/RenatoRissato/projeto-receitas-fullstack.git
+```
 
-Abra a pasta do projeto.
+### 2️⃣ Acessar a pasta do projeto
 
-Execute o arquivo:
+```bash
+cd projeto-receitas-fullstack
+```
 
+### 3️⃣ Abrir no navegador
+
+Basta abrir o arquivo:
+
+```
 index.html
+```
 
 em qualquer navegador.
 
-👨‍💻 Autor
+---
 
-Desenvolvido por Renato Rissato da Silva
+## 📷 Preview do projeto
 
-GitHub: https://github.com/RenatoRissato
+Você pode adicionar aqui uma imagem do projeto futuramente.
+
+Exemplo:
+
+```
+assets/preview.png
+```
+
+Depois basta usar:
+
+```
+![Preview do projeto](assets/preview.png)
+```
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Renato Rissato da Silva**
+
+🔗 GitHub:
+https://github.com/RenatoRissato
+
+---
+
+⭐ Se você gostou do projeto, considere dar uma **star no repositório**.
